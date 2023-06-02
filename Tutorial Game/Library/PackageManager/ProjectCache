@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638205244862747580
-    m_Hash: 1387684734
+      ticks: 638205411552358246
+    m_Hash: 694304796
   m_LockFileStatus:
     m_FilePath: C:/Users/Hamie/Documents/GitHub/ClassNotesT3/Tutorial Game/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638205245232580136
-    m_Hash: 2986608602
+      ticks: 638205411552358246
+    m_Hash: 1446777379
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
