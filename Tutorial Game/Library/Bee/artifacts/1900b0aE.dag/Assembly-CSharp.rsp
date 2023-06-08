@@ -326,6 +326,8 @@
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.24f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll"
 -r:"C:/Users/Hamie/Documents/GitHub/ClassNotesT3/Tutorial Game/Library/PackageCache/com.unity.testtools.codecoverage@1.2.2/lib/ReportGenerator/ReportGeneratorMerged.dll"
 -r:"C:/Users/Hamie/Documents/GitHub/ClassNotesT3/Tutorial Game/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/RadicalForge.Blockout.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/RadicalForge.Blockout.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.EditorCoroutines.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.ref.dll"
@@ -349,7 +351,12 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
+"Assets/Animation/Scripts/IKFKDemo.cs"
 "Assets/LSystem/Scripts/LSystemScript.cs"
+"Assets/ThirdPerson/Scripts/CamPlayerControl/TPC.cs"
+"Assets/ThirdPerson/Scripts/CamPlayerControl/TPCam.cs"
+"Assets/ThirdPerson/Scripts/KeyBoardControl/ThirdPersonCamera.cs"
+"Assets/ThirdPerson/Scripts/KeyBoardControl/ThirdPersonController.cs"
 -langversion:9.0
 
 /deterministic
