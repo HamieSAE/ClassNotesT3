@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638219089530891233
-    m_Hash: 453451947
+      ticks: 638222492841121465
+    m_Hash: 3629345990
   m_LockFileStatus:
     m_FilePath: C:/Users/Hamie/Documents/GitHub/ClassNotesT3/Tutorial Game/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638219089530963699
-    m_Hash: 2176103916
+      ticks: 638222492841131442
+    m_Hash: 1688073770
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -355,11 +355,13 @@ m_ResolvedPackages:
     - 3.0.20
     - 3.0.21
     - 3.0.22
+    - 3.0.24
     compatible:
     - 3.0.20
     - 3.0.21
     - 3.0.22
-    verified: 3.0.22
+    - 3.0.24
+    verified: 3.0.24
   dependencies:
   - name: com.unity.ext.nunit
     version: 1.0.6
@@ -590,6 +592,7 @@ m_ResolvedPackages:
     - 1.3.3
     - 1.3.4
     - 1.3.5
+    - 1.3.7
     - 2.0.1-exp.1
     - 2.0.1-exp.2
     - 2.0.1-pre.12
@@ -603,6 +606,7 @@ m_ResolvedPackages:
     - 1.3.3
     - 1.3.4
     - 1.3.5
+    - 1.3.7
     - 2.0.1-exp.1
     - 2.0.1-exp.2
     - 2.0.1-pre.12

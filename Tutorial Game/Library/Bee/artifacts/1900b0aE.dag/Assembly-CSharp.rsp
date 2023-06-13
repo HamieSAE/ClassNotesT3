@@ -359,6 +359,7 @@
 "Assets/ThirdPerson/Scripts/CamPlayerControl/TPCam.cs"
 "Assets/ThirdPerson/Scripts/KeyBoardControl/ThirdPersonCamera.cs"
 "Assets/ThirdPerson/Scripts/KeyBoardControl/ThirdPersonController.cs"
+"Assets/TJump/Scripts/TripleJump.cs"
 -langversion:9.0
 
 /deterministic

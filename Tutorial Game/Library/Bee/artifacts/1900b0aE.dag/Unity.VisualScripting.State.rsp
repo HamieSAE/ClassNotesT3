@@ -327,8 +327,6 @@
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.24f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Common.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.24f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.24f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll"
--r:"C:/Program Files/Unity/Hub/Editor/2021.3.24f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll"
--r:"C:/Program Files/Unity/Hub/Editor/2021.3.24f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.24f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll"
 -r:"C:/Users/Hamie/Documents/GitHub/ClassNotesT3/Tutorial Game/Library/PackageCache/com.unity.collab-proxy@2.0.3/Lib/Editor/PlasticSCM/log4netPlastic.dll"
 -r:"C:/Users/Hamie/Documents/GitHub/ClassNotesT3/Tutorial Game/Library/PackageCache/com.unity.collab-proxy@2.0.3/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll"
